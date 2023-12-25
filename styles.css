@@ -115,7 +115,7 @@
   /*Menu styling*/
   
   .navigation-panel {
-    display: flex; /*change display to flex!*/
+    display: none; /*change display to flex!*/
     justify-content: space-between;
     padding: 2.5rem 5rem;
     background: #282828;
