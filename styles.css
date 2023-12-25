@@ -257,7 +257,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-image: url("https://framerusercontent.com/images/1NziRt2Mcm1skJ2Q57y2C8E4Tdk.png?scale-down-to=2048");
+    background-image: url("Assets/project-1.webp");
     background-size: cover;
     transition: 0.5s;
     margin-bottom: 80px;
@@ -269,11 +269,11 @@
   }
   
   .projects-main-box:nth-child(3){
-    background-image: url("https://framerusercontent.com/images/I9hJ1DBUM5grSTwtiBsEM6a1OA.png?scale-down-to=2048");
+    background-image: url("Assets/project-2.webp");
   }
   
   .projects-main-box:nth-child(4){
-    background-image: url('https://framerusercontent.com/images/Jnmux3crsz00AyuRT5UA0uywC8.png?scale-down-to=2048');
+    background-image: url('Assets/project-3.webp');
   }
   
   .projects-info-box {
